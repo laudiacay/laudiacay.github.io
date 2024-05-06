@@ -2,8 +2,6 @@
 layout: default
 title: CV
 ---
-### past present future claudia things:
-
 - 2022: Founded my [company](https://banyan.computer), discussed above... been doing that + research on the side since :)
 - 2021-2022: Filecoin engineer on FVM and the node software/core runtime
 - 2021: chaotic DeFi freelance period. Implemented the Berlin hard fork of [HEVM](https://github.com/dapphub/dapptools/tree/master/src/hevm). Outside of that, did a lot of shitcoining, mechanism design, cryptography auditing, and solidity auditing.

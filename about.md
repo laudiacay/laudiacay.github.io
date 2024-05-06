@@ -3,8 +3,6 @@ layout: default
 title: About
 ---
 
-### About me
-
 #### Likes
 - I like people who are genuinely kind, good, and noble, and I hope being around them will make me the same way.
 - I try to keep a positive mindset and see fuckups as learning opportunities. You, dear reader, are welcome to join me in this <3
@@ -80,6 +78,14 @@ I work in crypto. Yes, it IS 95% scams, yes, my soul DOES hurt, yes, these peopl
 
 I think humans are generally pretty good. That's why I try to make my money by building people honest products that increase their autonomy and improve their life. Currently, the relevant layer of the stack I work on is usable encryption technology and better peer-to-peer networking.
 
+Crypto subject areas I'm pretty skillful at, and would feel comfortable technically advising a startup on:
+- formal verification and solvers
+- intent solving and intent DSL design
+- cryptographic/MPC schemes
+- trustless design
+- anything with decentralized storage, infrastructure, cloud, or CDNs
+- decentralized infrastructure design
+- ZK applications and ZK circuit design, especially ZKVMs
 
 #### Future Goals
 One day, I would like to get a PhD and found a hardtech company. I really do like being a founder and building things people like.
