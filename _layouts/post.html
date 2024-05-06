@@ -3,7 +3,6 @@ layout: default
 ---
 <p>{{ page.date }} - Written by {{ page.author }}</p>
 
-{% raw %}
 {% if page.tags.size > 0 %}
   <p>Tags:
     {% for tag in page.tags %}
@@ -11,6 +10,5 @@ layout: default
     {% endfor %}
   </p>
 {% endif %}
-{% endraw %}
 
 {{ content }}
