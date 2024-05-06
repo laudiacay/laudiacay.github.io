@@ -1,0 +1,19 @@
+---
+layout: default
+title: CV
+---
+### past present future claudia things:
+
+- 2022: Founded my [company](https://banyan.computer), discussed above... been doing that + research on the side since :)
+- 2021-2022: Filecoin engineer on FVM and the node software/core runtime
+- 2021: chaotic DeFi freelance period. Implemented the Berlin hard fork of [HEVM](https://github.com/dapphub/dapptools/tree/master/src/hevm). Outside of that, did a lot of shitcoining, mechanism design, cryptography auditing, and solidity auditing.
+- 2020-2021: UChicago taught Master's in machine learning- lots of theory- dropped out to freelance for DeFi summer. Did some (sloppy, fast) research on visualizing generalization in deep neural nets by studying how mistaken labeling in one class impacts error rate in other classes by computing the KL-divergence between distributions. Made a [poster](_assets/poster.pdf) and a [short rough draft of a paper](_assets/final-paper.pdf) right before I dropped out.
+- 2020: Trail of Bits Cryptography auditor and ZK researcher on DARPA SIEVE grant. I wrote circuit compilers (not public) and some [rust security tooling](https://github.com/trailofbits/siderophile).
+- 2016-2020: UChicago undergraduate- CS and one final short of math (dropped out to make money for DeFi summer- don't worry! my in-major GPA was not bad... was tired of school). Did some cool research with using t-SNE to cluster Bitcoin wallets and do some very crappy chainalysis in 2018, for a class, and I can't find the paper.
+- summer 2019: Jane Street SWE/security internship (including writing Noise/part of Wireguard in OCaml- see my [Github](https://github.com/laudiacay/noise-wireguard-ocaml))
+- summer 2018: Dropbox cybersecurity internship
+- 2017-2020: Lots of TA jobs, including algorithms & graduate distributed systems classes, at UChicago. Also gave lots of [cybersecurity](_assets/wifi-presentation.pdf), and [blockchain talks](_assets/blockchain-talk.pdf) to other undergrads.
+- 2017-2020: Lots of sysadmin and IT jobs, including on the UChicago Midway supercomputer
+- 2016-2017: Wolfram Algorithms R&D Intern, Signal Processing and Digital Image Processing
+- 2013-2016: TJHSST (rowing, cello, CTFs, lots of fun classes!)
+- 2015-2016: Accelerator Physics research at UMD/IREAP, on the UMER electron ring ([slides](_assets/umer-steering-slides.pdf)) and Rutgers 12" Cyclotron ([slides](_assets/synchcyc-presentation.pdf), [paper](_assets/synchrocyclotron-research.pdf))
