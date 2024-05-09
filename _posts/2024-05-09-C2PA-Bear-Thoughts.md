@@ -64,6 +64,7 @@ A5: Again, mostly quite bearish. As you see in the workflow above, most data tha
 	- rating: could probably make money with really freaking good GTM 
 2. decentralized community notes across the entire internet for attestations that can only be made by a real human: I think one of the media focused or NGO C2PA members is basically guaranteed to regulatory-capture this one. creds to [@mattigags](https://twitter.com/mattigags) though for coming up with it. 
 	- rating: only investable if the team has deep state/NGO/media/C2PA/social media connections, which very few of us web3 clowns possess
+
 ### Conclusion
 Everyone here has done a bunch of yelling about Blockchain And AI!!! AI safety is finally our time to shine! Oh my god!!!!!!! We found a real use case!!!! 
 

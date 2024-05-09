@@ -22,7 +22,7 @@ These papers mostly operate well above the calculus and linear algebra that you 
 What you do see a lot of reference to is deep statistical intuitions, information theoretic intuitions (which are sort of the same thing), computability, and generalized insight into the fundamental nature of concepts and space and time and thought and language and knowledge in themselves. The things I've read that I've found most useful as I'm diving into this have all been philosophical. As a philosophy hobbyist, I've found these papers intensely fun, and I hope you do as well! 
 
 note that this is super under construction... :P I'm way ahead with reading than I am with writing at this point.
-## Information theory, algorithmic complexity theory, and other relevant background
+##  ► Information theory, algorithmic complexity theory, and other relevant background
 ### [A Tutorial Introduction to the Minimum Description Length Principle](https://arxiv.org/pdf/math/0406077) (Tutorial/Paper)
 
 What a great start, this is eighty pages long. Ready? There's a significantly friendlier Wikipedia page [here](https://en.wikipedia.org/wiki/Minimum_description_length) to pregame it.
@@ -33,7 +33,7 @@ TODO
 ### [The First Law of Complexodynamics](https://scottaaronson.blog/?p=762) (Blog post) and [Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton](https://arxiv.org/pdf/1405.6903) (Paper)
 TODO God I love Scott.
 ### [Keeping Neural Networks Simple by Minimizing the Description Length of the Weights](https://www.cs.toronto.edu/~hinton/absps/colt93.pdf) (Paper)
-## Generalized Architectures and Techniques (With A Philosophical Bent) (Meatiest Section)
+## ► Generalized Architectures and Techniques (With A Philosophical Bent) (Meatiest Section)
 
 ### [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) (Blog)
 
@@ -55,7 +55,7 @@ TODO God I love Scott.
 ### [Pointer Networks](https://arxiv.org/pdf/1506.03134) (Paper)
 
 
-## Techniques and Architectures for Computer Vision
+## ► Techniques and Architectures for Computer Vision
 ### [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) (Stanford Course Notes)
 ### [Multi Scale Context Aggregation By Dilated Convolutions](https://arxiv.org/pdf/1511.07122) (Paper)
 
@@ -63,7 +63,7 @@ TODO God I love Scott.
 
 ### [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) (Paper)
 
-## Techniques and Architectures for NLP
+## ► Techniques and Architectures for NLP
 ### [Attention is all you need](https://arxiv.org/pdf/1706.03762) (Paper) and [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) (Jupyter Notebook/Blog)
 Attention Is All You Need is the 2017 paper that introduces the transformer. The key innovation is in the title: A transformer is a model architecture that works over sequences and uses encoders and decoders. However, unlike previous architectures, it is neither RNN nor CNN. Instead, it uses an attention mechanism to take a global view of the input and focus appropriately on elements and connections between them. 
 
@@ -75,11 +75,12 @@ Key insight: how does a transformer work?
 1. Embeds the inputs and adds a "positional encoding" feature to them (more about this mechanism later- it's really nifty)
 2. Perform multi-head attention on the inputs (this picks out what's important)
 3. .... TODO ... finish
+
 ### [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595) (Paper)
 ### [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361) (Paper)
 
 ### [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473) (Paper)
-## Grab Bag
+## ► Grab Bag
 ### [Machine Super Intelligence](https://www.vetta.org/documents/Machine_Super_Intelligence.pdf) (PhD Thesis)
 
 ### [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212) (Paper)
