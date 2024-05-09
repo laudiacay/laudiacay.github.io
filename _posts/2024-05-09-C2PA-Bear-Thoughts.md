@@ -13,7 +13,7 @@ This is a [Twitter thread](https://twitter.com/_laudiacay/status/178859484336041
 
 Today, TikTok joined the CAI (content authenticity alliance). What does this mean for blockchain people trying to make money from AI safety/data/provenance? Tl;dr, it's not a great situation, but we already sort of knew that.
 ### Who is the CAI?
-For some background: what do you need to know about the CAI? Really, the below screenshot says plenty. It's Adobe-led (which means most creative production), using specifications whose development was incubated by the Linux Foundation (C2PA).![Image](C2PA.png)
+For some background: what do you need to know about the CAI? Really, the below screenshot says plenty. It's Adobe-led (which means most creative production), using specifications whose development was incubated by the Linux Foundation (C2PA).![Image](/assets/images/C2PA.png)
 
 Note the market share of social media / content delivery platforms, camera brands (Sony/Canon/Nikon), media and PR institutions (NHK/BBC/Publicis Groupe), large market share of devices and software (Intel/ARM/Google/Microsoft), and more. They're all in the C2PA. Check the [members list](https://c2pa.org/membership/).
 ### What are they selling?
