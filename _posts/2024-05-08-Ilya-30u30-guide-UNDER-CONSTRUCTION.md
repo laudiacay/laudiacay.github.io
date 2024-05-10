@@ -39,7 +39,7 @@ TODO God I love Scott.
 TODO
 ## ► Generalized Architectures and Techniques (With A Philosophical Bent) (Meatiest Section)
 
-### [Understanding LSTM Networks](/_posts/2024-05-09-Understanding-LSTM-Networks.md) [(Paper)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+### [Understanding LSTM Networks](/_posts/2024/05/09/Understanding-LSTM-Networks.html) [(Paper)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 ### [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) (Blog)
 
 TODO
