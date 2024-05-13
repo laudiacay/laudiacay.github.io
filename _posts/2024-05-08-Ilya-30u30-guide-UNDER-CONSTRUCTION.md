@@ -24,14 +24,12 @@ What you do see a lot of reference to is deep statistical intuitions, informatio
 
 note that this is super under construction... :P I'm way ahead with reading than I am with writing at this point.
 ##  ► Information theory, algorithmic complexity theory, and other relevant background
-### [A Tutorial Introduction to the Minimum Description Length Principle](https://arxiv.org/pdf/math/0406077) (Tutorial/Paper)
+### [A Tutorial Introduction to the Minimum Description Length Principle](/_posts/2024/05/11/2024-05-11-Tutorial-Introduction-to-MDL.html) [(Tutorial/Paper)](https://arxiv.org/pdf/math/0406077)
 
-What a great start, this is eighty pages long. Ready? There's a significantly friendlier Wikipedia page [here](https://en.wikipedia.org/wiki/Minimum_description_length) to pregame it.
-
-TODO
+Friendly! Go read it!
 ### [Kolmogorov Complexity And Algorithmic Randomness](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf) from page 434 onwards (Textbook)
 
-TODO
+Oh this one is way less friendly haha
 ### [The First Law of Complexodynamics](https://scottaaronson.blog/?p=762) (Blog post) and [Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton](https://arxiv.org/pdf/1405.6903) (Paper)
 TODO God I love Scott.
 ### [Keeping Neural Networks Simple by Minimizing the Description Length of the Weights](https://www.cs.toronto.edu/~hinton/absps/colt93.pdf) (Paper)
