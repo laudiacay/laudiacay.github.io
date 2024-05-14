@@ -5,6 +5,7 @@ tags:
   - writing
   - papers
 title: Tutorial Introduction to MDL
+collection: posts
 layout: post
 ---
 ### [Source post here.](https://arxiv.org/pdf/math/0406077)

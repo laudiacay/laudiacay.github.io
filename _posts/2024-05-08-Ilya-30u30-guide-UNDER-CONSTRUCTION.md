@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ilya 30u30 guide UNDER CONSTRUCTION
+collection: posts
 tags:
   - research
   - ai
@@ -24,7 +25,7 @@ What you do see a lot of reference to is deep statistical intuitions, informatio
 
 note that this is super under construction... :P I'm way ahead with reading than I am with writing at this point.
 ##  ► Information theory, algorithmic complexity theory, and other relevant background
-### [A Tutorial Introduction to the Minimum Description Length Principle](/_posts/2024/05/11/2024-05-11-Tutorial-Introduction-to-MDL.html) [(Tutorial/Paper)](https://arxiv.org/pdf/math/0406077)
+### [A Tutorial Introduction to the Minimum Description Length Principle](/2024/05/11/Tutorial-Introduction-to-MDL.html) [(Tutorial/Paper)](https://arxiv.org/pdf/math/0406077)
 
 Friendly! Go read it!
 ### [Kolmogorov Complexity And Algorithmic Randomness](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf) from page 434 onwards (Textbook)
@@ -37,7 +38,7 @@ TODO God I love Scott.
 TODO
 ## ► Generalized Architectures and Techniques (With A Philosophical Bent) (Meatiest Section)
 
-### [Understanding LSTM Networks](/_posts/2024/05/09/Understanding-LSTM-Networks.html) [(Paper)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+### [Understanding LSTM Networks](/2024/05/09/Understanding-LSTM-Networks.html) [(Paper)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 ### [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) (Blog)
 
 TODO

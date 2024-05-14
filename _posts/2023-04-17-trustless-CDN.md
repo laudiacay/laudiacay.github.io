@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Trustless CDN Design
-tags: [talks, research, decentralized storage]
+collection: posts
+tags: [talks, research, decentralized-storage]
 ---
 
 I gave a talk about good design and game theory for a trustless CDN at the HTTP Gateways track of IPFS Thing in Brussels, Belgium.

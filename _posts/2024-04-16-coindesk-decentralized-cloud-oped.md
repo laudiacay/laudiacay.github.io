@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Coindesk Decentralized Cloud Op-ed
-tags: [writing, decentralized storage, filecoin]
+collection: posts
+tags: [writing, decentralized-storage, filecoin]
 ---
 
 This is an op-ed about the current problems, and future promise, of the industry my startup is operating in.

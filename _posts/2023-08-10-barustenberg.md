@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Side zk work
+collection: posts
 tags: [projects, work, zk]
 ---
 While I was at Zuzalu, I got pretty into writing Rust code for ZK / specifically folding.

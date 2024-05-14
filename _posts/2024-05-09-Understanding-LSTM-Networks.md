@@ -5,6 +5,7 @@ tags:
   - writing
   - papers
 title: Understanding LSTM Networks
+collection: posts
 layout: post
 ---
 ### [Source post here.](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)

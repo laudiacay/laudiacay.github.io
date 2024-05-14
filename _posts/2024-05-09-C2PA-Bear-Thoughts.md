@@ -1,11 +1,11 @@
 ---
 layout: post
 title: C2PA Bear Thoughts
+collection: posts
 tags:
   - c2pa
   - provenance
-  - decentralized
-  - storage
+  - decentralized-storage
   - writing
   - work
 ---
