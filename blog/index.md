@@ -1,24 +1,27 @@
 ---
-layout: default 
+layout: page 
 title: Blog
 pagination: 
   enabled: true
 ---
 
 <hr class="double">
-
 {% for post in paginator.posts %}
-<h2><a href={{post.url}}>{{ post.title }}</a></h2>
-
-{{ post.excerpt }}
-
-<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
-{% if post.tags.size > 0 %}
-Tags: {% for tag in post.tags %}<a href=/tags/{{ tag | slugify }}>{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
-{% endif %}
-
+<div class="post-box">
+  <h2><a href={{post.url}}>{{ post.title }}</a></h2>
+  <div class="post-excerpt">
+    {{ post.excerpt }}
+  </div>
+  <div class="post-meta">
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+    {% if post.tags.size > 0 %}
+    <div class="post-tags">
+      Tags: {% for tag in post.tags %}<a href=/tags/{{ tag | slugify }}>{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</div>
 <hr class="dotted">
-
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}

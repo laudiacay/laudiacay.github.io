@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: CV
 ---
 - 2022: Founded my [company](https://banyan.computer), discussed above... been doing that + research on the side since :)

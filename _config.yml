@@ -16,6 +16,31 @@ defaults:
 
 plugins:
   - jekyll-paginate-v2
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+nav:
+  - title: CV
+    url: /cv
+  - title: Blog
+    url: /blog
+  - title: About
+    url: /about
+  - title: Inquiries/Links
+    url: /inquiries
 
 pagination:
   enabled: true
