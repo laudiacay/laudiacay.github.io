@@ -4,7 +4,7 @@ title: Blog
 pagination: 
   enabled: true
 ---
-
+<p>I've started keeping a blog to establish writing habits. I'm slowly improving! If you have constructive feedback about how I can improve my style and clarity, I would love to hear it! If you want to discuss ideas, also hit me up on Twitter :)</p>
 <hr class="double">
 {% for post in paginator.posts %}
 <div class="post-box">
