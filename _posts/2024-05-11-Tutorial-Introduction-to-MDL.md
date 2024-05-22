@@ -10,7 +10,7 @@ layout: post
 ---
 ### [Source post here.](https://arxiv.org/pdf/math/0406077)
 
-UNDER CONSTRUCTION! as of may 13 2024.
+## UNDER CONSTRUCTION! as of may 13 2024. please excuse the awful formatting, I'm working in markdown and not compiling to HTML
 
 What a great start, this is eighty pages long. It's remarkably friendly- if you're using my notes to skip the papers, maybe just go read this one and refer back to my notes when you're having trouble parsing something. (or want some fun Claudia insights about applications to broader ML/my one true love cryptography)
 #### Background

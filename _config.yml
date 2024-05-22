@@ -12,7 +12,9 @@ defaults:
       path: ""
     values:
       layout: "default"
-      author: "Claudia Richoux"
+      author:
+        twitter: _laudiacay
+        name: "Claudia Richoux"
 
 plugins:
   - jekyll-paginate-v2
