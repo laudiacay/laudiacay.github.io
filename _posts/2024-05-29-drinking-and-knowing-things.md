@@ -10,6 +10,7 @@ tags:
 title: The Decentralized Cloud Master-Document
 collection: posts
 layout: post
+published: "false"
 ---
 ## What is this?
 This is a... literature review? Startup guide? Market analysis? Engineering decision documentation? All of the above!
