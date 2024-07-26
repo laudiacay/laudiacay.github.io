@@ -1,0 +1,24 @@
+body {
+  background-color: lavender;
+  color: indigo;
+  font-family: monospace;
+} 
+/* unvisited link */
+a:link {
+  color: #200132;
+}
+
+/* visited link */
+a:visited {
+  color: #013220;
+}
+
+/* mouse over link */
+a:hover {
+  color: #320113;
+}
+
+/* selected link */
+a:active {
+  color: #133201;
+}
